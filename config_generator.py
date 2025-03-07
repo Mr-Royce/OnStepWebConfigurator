@@ -1,4 +1,3 @@
-# config_generator.py
 def generate_config(config_vars):
     config_lines = [
         "/* Configuration for OnStepX */",
